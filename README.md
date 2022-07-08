@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/IsD4n73/IsD4n73/blob/main/img/grid-snake.svg"
         alt="snake" />
        
        
