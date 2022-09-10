@@ -43,4 +43,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isd4n73&theme=github_dark&repo=instaDownloader)
 
+<img  src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/bca2c4e7d273465d63113819a815d9ac91124b71/img/pacman.svg"
+        alt="pakman" />
+
 </div>
