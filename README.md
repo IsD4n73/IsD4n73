@@ -37,7 +37,7 @@
 
 <p align="center">Stats</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isd4n73&show_icons=true&locale=it" alt="isd4n73" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isd4n73&show_icons=true&locale=it&theme=dark" alt="isd4n73" /></p>
 
 <a href="http://www.github.com/IsD4n73"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IsD4n73&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
