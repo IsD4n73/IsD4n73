@@ -62,6 +62,8 @@
 > - non funzionare - 
 >```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Powered+by+D4n73&center=true&color=ff0000)](https://git.io/typing-svg)
+
 
 </div>
 
