@@ -55,5 +55,13 @@
 <img  src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/bca2c4e7d273465d63113819a815d9ac91124b71/img/pacman.svg"
         alt="pakman" />
 
+> **Warning**
+>```diff
+> - Alcune repository - 
+> - potrebbero - 
+> - non funzionare - 
+>```
+
+
 </div>
 
