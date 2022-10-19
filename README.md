@@ -1,7 +1,7 @@
 <div align="center">
   
   <img  src="https://github.com/IsD4n73/IsD4n73/blob/main/img/grid-snake.svg"
-        alt="snake" />
+        alt="snake"/>
        
        
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsD4n73&langs_count=10&show_icons=true&locale=it&layout=compact&theme=algolia" 
@@ -53,7 +53,7 @@
 ---
 
 <img  src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/bca2c4e7d273465d63113819a815d9ac91124b71/img/pacman.svg"
-        alt="pakman" />
+        alt="pacman" />
 
 > **Warning**
 >```diff
