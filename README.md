@@ -46,7 +46,7 @@
 <br><br>
 ---
 
-<p align="center">Active Repo</p>
+<p align="center">Active Repository</p>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isd4n73&theme=github_dark&repo=instaDownloader)
 
