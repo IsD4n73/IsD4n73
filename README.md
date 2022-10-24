@@ -9,7 +9,7 @@
 ---
 <br><br>
 
-<p align="center">Language</p>
+<p align="center">Linguaggi</p>
 
   <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/2161eccc5a8cc632c3ba585f1d4c6c7a0ad6cb87/img/icon/c-original.svg" alt="c" width="40" height="40"/> </a> 
