@@ -1,8 +1,5 @@
 name: SnakeGif
-
-
 on:
-
   push:
     branches:
     - master
@@ -17,7 +14,8 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: Platane/snk@v2
+      - name: genarate-svg
+        uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
 
@@ -29,3 +27,9 @@ jobs:
 
 
 
+       
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: main
+          build_dir: dist
