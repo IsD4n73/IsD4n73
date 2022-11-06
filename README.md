@@ -1,9 +1,8 @@
 <div align="center">
   
-  <img  src="https://github.com/IsD4n73/IsD4n73/blob/main/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/output/github-contribution-grid-snake-dark.svg"
         alt="snake"/>
-  
-  ![GitHub Snake](dist/github-contribution-grid-snake.svg)
+
        
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsD4n73&langs_count=10&show_icons=true&locale=it&layout=compact&theme=codeSTACKr" 
        alt="IsD4n73 linguaggi" height="192px"/>
