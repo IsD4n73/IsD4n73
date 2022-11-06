@@ -2,7 +2,8 @@
   
   <img  src="https://github.com/IsD4n73/IsD4n73/blob/main/img/grid-snake.svg"
         alt="snake"/>
-       
+  
+  ![GitHub Snake](github-snake-dark.svg#gh-dark-mode-only)
        
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsD4n73&langs_count=10&show_icons=true&locale=it&layout=compact&theme=codeSTACKr" 
        alt="IsD4n73 linguaggi" height="192px"/>
