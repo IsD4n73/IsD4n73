@@ -24,9 +24,13 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/2161eccc5a8cc632c3ba585f1d4c6c7a0ad6cb87/img/icon/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/2161eccc5a8cc632c3ba585f1d4c6c7a0ad6cb87/img/icon/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/2161eccc5a8cc632c3ba585f1d4c6c7a0ad6cb87/img/icon/php-original.svg" alt="php" width="40" height="40"/> </a> 
-    <a> <img src="https://github.com/IsD4n73/IsD4n73/blob/main/img/icon/mysql.png?raw=true" alt="MySQL" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/Lua-Logo.svg.png" alt="LUA" width="40" height="40"/>
-    <a> <img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/selenium-logo-DB9103D7CF-seeklogo.com.png" alt="Selenium" width="40" height="40"/> </a>
+    <a><img src="https://github.com/IsD4n73/IsD4n73/blob/main/img/icon/mysql.png?raw=true" alt="MySQL" width="40" height="40"/> </a>
+    <a><img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/Lua-Logo.svg.png" alt="LUA" width="40" height="40"/>
+    <a><img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/selenium-logo-DB9103D7CF-seeklogo.com.png" alt="Selenium" width="40" height="40"/> </a>
+    <a><img src="" alt="Dart" width="40" height="40"/></a>
+    <a><img src="" alt="Flutter" width="40" height="40"/></a>
+  
+
   </p>
 
 
