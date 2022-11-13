@@ -27,7 +27,7 @@
     <a><img src="https://github.com/IsD4n73/IsD4n73/blob/main/img/icon/mysql.png?raw=true" alt="MySQL" width="40" height="40"/> </a>
     <a><img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/Lua-Logo.svg.png" alt="LUA" width="40" height="40"/>
     <a><img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/selenium-logo-DB9103D7CF-seeklogo.com.png" alt="Selenium" width="40" height="40"/> </a>
-    <a><img src="" alt="Dart" width="40" height="40"/></a>
+    <a><img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/Dart-logo.png" alt="Dart" width="40" height="40"/></a>
     <a><img src="" alt="Flutter" width="40" height="40"/></a>
   
 
