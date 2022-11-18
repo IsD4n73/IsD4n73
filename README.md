@@ -1,4 +1,3 @@
-
 <div align="center">
   
   <img  src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/output/github-contribution-grid-snake-dark.svg"
