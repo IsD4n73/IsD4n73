@@ -1,17 +1,4 @@
 {
-
-  "canali": [
-    {
-      "nome": "b",
-      "categoria": "d",
-      "tipo": "",
-      "url": ""
-    },
-    {
-      "nome": "b",
-      "categoria": "d",
-      "tipo": "",
-      "url": ""
-    }
-  ]
+  "cinelog": "b",
+  "altadefinizione": "d",
 }
