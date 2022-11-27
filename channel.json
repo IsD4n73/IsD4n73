@@ -1,4 +1,14 @@
-{
-  "cinelog": "b",
-  "altadefinizione": "d"
-}
+[
+  {
+    "nome": "Cineblog",
+    "categorie": "Film, Serie TV",
+    "img": "https://s3-eu-west-1.amazonaws.com/tpd/logos/5d0639e4f86ec500015ee731/0x0.png",
+    "url": "https://cineblog01.moe/"
+  },
+  {
+    "nome": "Lista m3u8",
+    "categorie": "Film, Serie TV",
+    "img": "https://s.alicdn.com/@sc04/kf/He0231421361b4a3d81bf9bc47c0b16c84.jpg",
+    "url": "https://list.iptvcat.com/my_list/s/43edb9619aa4cbd34020b6dfaec7fa49.m3u8"
+  }
+]
