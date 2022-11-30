@@ -6,9 +6,15 @@
     "url": "https://cineblog01.moe/"
   },
   {
-    "nome": "Lista m3u8",
+    "nome": "m3u8 Test",
     "categorie": "Film, Serie TV",
     "img": "https://s.alicdn.com/@sc04/kf/He0231421361b4a3d81bf9bc47c0b16c84.jpg",
     "url": "https://list.iptvcat.com/my_list/s/43edb9619aa4cbd34020b6dfaec7fa49.m3u8"
-  }
+  }, 
+  {
+    "nome": "Lista m3u Test",
+    "categorie": "Canali TV",
+    "img": "https://s.alicdn.com/@sc04/kf/He0231421361b4a3d81bf9bc47c0b16c84.jpg",
+    "url": "https://raw.githubusercontent.com/IsD4n73/IsD4n73/file/flutter-tv/test.m3u"
+  } 
 ]
