@@ -1,5 +1,12 @@
 [
   {
+    "nome": "Film",
+    "categorie": "Raccolta Film",
+    "img": "https://yt3.ggpht.com/ytc/AMLnZu8oT3ljQQH1p6SrqXmR_XIAHcp9VdFze_B42qgtxQ=s900-c-k-c0x00ffffff-no-rj",
+    "url": "pagina", 
+    "destinazione": "film"
+  },
+  {
     "nome": "Sport 360",
     "categorie": "Sport",
     "img": "https://yt3.ggpht.com/ytc/AMLnZu8oT3ljQQH1p6SrqXmR_XIAHcp9VdFze_B42qgtxQ=s900-c-k-c0x00ffffff-no-rj",
