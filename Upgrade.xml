@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Flutter TV - Aggiornamenti</title>
+        <item>
+            <title>Versione 1.1.0</title>
+            <description>Aggiunti dilm e serie rv popolari.</description>
+            <pubDate>Sun, 03 Dec 2022 12:00:00 +0000</pubDate>
+            <enclosure url="download url" sparkle:version="1.15.0" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
