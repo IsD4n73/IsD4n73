@@ -6,7 +6,7 @@
             <title>Versione 1.1.0</title>
             <description>Aggiunti dilm e serie rv popolari.</description>
             <pubDate>Sun, 03 Dec 2022 12:00:00 +0000</pubDate>
-            <enclosure url="download url" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://pub.dev/packages/version" sparkle:version="1.1.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
