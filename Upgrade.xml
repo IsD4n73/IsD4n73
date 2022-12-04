@@ -3,10 +3,10 @@
     <channel>
         <title>Flutter TV - Aggiornamenti</title>
         <item>
-            <title>Versione 1.1.0</title>
-            <description>Aggiunti dilm e serie rv popolari.</description>
-            <pubDate>Sun, 03 Dec 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://pub.dev/packages/version" sparkle:version="1.1.0" sparkle:os="android" />
+            <title>Versione 1.2.0</title>
+            <description>Aggiunti film e serie tv.</description>
+            <pubDate>Sun, 04 Dec 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://pub.dev/packages/version" sparkle:version="1.2.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
