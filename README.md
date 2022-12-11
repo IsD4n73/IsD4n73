@@ -42,14 +42,16 @@
 <p align="center">Serie</p>
 <a href="http://www.github.com/IsD4n73"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IsD4n73&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<!--
 <a href="http://www.github.com/IsD4n73"><img src="https://activity-graph.herokuapp.com/graph?username=IsD4n73&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+-->
 
 <br><br>
 ---
 
 <p align="center">Active Repository</p>
 
-![InstaDownloader](https://github-readme-stats.vercel.app/api/pin/?username=isd4n73&theme=github_dark&repo=Flutter-TV)
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=isd4n73&theme=github_dark&repo=Flutter-TV)
 
 ---
 
