@@ -3,10 +3,10 @@
     <channel>
         <title>Flutter TV - Aggiornamenti</title>
         <item>
-            <title>Versione 1.3.0</title>
-            <description>Aggiunta ricerca.</description>
-            <pubDate>Sun, 04 Dec 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/IsD4n73/Flutter-TV/releases/download/1.x.x/app-arm64-v8a-release.apk" sparkle:version="1.2.0" sparkle:os="android" />
+            <title>Versione 1.4.0</title>
+            <description>Aggiunto player m3u interno.</description>
+            <pubDate>Sun, 19 Dec 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/IsD4n73/Flutter-TV/releases/download/1.x.x/app-arm64-v8a-release.apk" sparkle:version="1.4.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
