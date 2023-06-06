@@ -3,10 +3,10 @@
     <channel>
         <title>Flutter TV - Aggiornamenti</title>
         <item>
-            <title>Versione 1.6.0</title>
-            <description>Redesign UI & Removed IPTV & Removed Internal site</description>
-            <pubDate>Sun, 05 Gun 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/IsD4n73/Flutter-TV/releases/download/1.x.x/app-arm64-v8a-release.apk" sparkle:version="1.6.0" sparkle:os="android" />
+            <title>Versione 1.6.5</title>
+            <description>Upgrade icon + splash screen</description>
+            <pubDate>Sun, 06 Gun 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/IsD4n73/Flutter-TV/releases/download/1.x.x/app-arm64-v8a-release.apk" sparkle:version="1.6.5" sparkle:os="android" />
         </item>
     </channel>
 </rss>
