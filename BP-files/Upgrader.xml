@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Buste Paga Sender - Aggiornamenti</title>
+        <item>
+            <title>Versione 1.0.0</title>
+            <description>Upgrader</description>
+            <pubDate>Sun, 26 Gun 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/IsD4n73/Flutter-TV/releases/download/1.x.x/app-arm64-v8a-release.apk" sparkle:version="1.0.0" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
