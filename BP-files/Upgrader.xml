@@ -6,7 +6,7 @@
             <title>Versione 1.0.0</title>
             <description>Upgrader</description>
             <pubDate>Sun, 26 Gun 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/IsD4n73/IsD4n73/file/BP-files/Upgrader.xml" sparkle:version="1.0.0" sparkle:os="android" />
+            <enclosure url="https://raw.githubusercontent.com/IsD4n73/IsD4n73/file/BP-files/Upgrader.xml" sparkle:version="1.0.0" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
