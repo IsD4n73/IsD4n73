@@ -37,12 +37,15 @@
 
 <p align="center">Stats</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=isd4n73&show_icons=true&locale=it&theme=react-dark" alt="isd4n73" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isd4n73&show_icons=true&locale=it&theme=dark" alt="isd4n73" /></p>
 
 <p align="center">Serie</p>
-<a href="http://www.github.com/IsD4n73"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IsD4n73&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IsD4n73&theme=react-dark&area=true&hide_border=true&custom_title=IsD4n73%20Commits&)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IsD4n73&theme=transparent&locale=it&date_format=j%20M%5B%20Y%5D&fire=EB5454)](https://git.io/streak-stats)
+
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsD4n73&theme=react-dark&area=true&hide_border=true&custom_title=IsD4n73%20Commits&)
+
+
 <br><br>
 ---
 
