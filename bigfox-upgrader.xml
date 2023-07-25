@@ -3,10 +3,10 @@
     <channel>
         <title>Bigfox - Aggiornamenti</title>
         <item>
-            <title>Versione 3.9.10</title>
-            <description>Added personal gallery with: sort, settings, search, auto upload</description>
+            <title>Versione 3.9.15</title>
+            <description>internet check</description>
             <pubDate>Sun, 25 May 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/IsD4n73/BigFox-flutterApp/releases/download/rel/app-arm64-v8a-release.apk" sparkle:version="3.9.10" sparkle:os="android" />
+            <enclosure url="https://github.com/IsD4n73/BigFox-flutterApp/releases/download/rel/app-arm64-v8a-release.apk" sparkle:version="3.9.15" sparkle:os="android" />
         </item>
     </channel>
 </rss>
