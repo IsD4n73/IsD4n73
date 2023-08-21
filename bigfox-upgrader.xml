@@ -4,7 +4,9 @@
         <title>Bigfox - Aggiornamenti</title>
         <item>
             <title>Versione 3.10.7</title>
-            <description>added subfolder gallery</description>
+            <description>Added subfolder gallery
+            
+            Esporta i preferiti e la galleria prima di aggiornare</description>
             <pubDate>Sun, 25 May 2023 12:00:00 +0000</pubDate>
             <enclosure url="https://github.com/IsD4n73/BigFox-flutterApp/releases/download/rel/app-arm64-v8a-release.apk" sparkle:version="3.10.7" sparkle:os="android" />
         </item>
