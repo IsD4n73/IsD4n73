@@ -29,6 +29,7 @@
     <a><img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/selenium-logo-DB9103D7CF-seeklogo.com.png" alt="Selenium" width="40" height="40"/> </a>
     <a><img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/Dart-logo.png" alt="Dart" width="40" height="40"/></a>
     <a><img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/flutter-logo.png" alt="Flutter" width="40" height="40"/></a>
+    <a><img src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/main/img/icon/Kotlin_Icon.svg.png" alt="Kotlin" width="40" height="40"/></a>
   
   </p>
 
