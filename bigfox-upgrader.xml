@@ -4,11 +4,9 @@
         <title>Bigfox - Aggiornamenti</title>
         <item>
             <title>Versione 3.17.2</title>
-            <description>Fix theme
-            
-            Added more time for gif upload</description>
+            <description>Added new category</description>
             <pubDate>Sun, 25 May 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/IsD4n73/BigFox-flutterApp/releases/download/rel/app-arm64-v8a-release.apk" sparkle:version="3.17.2" sparkle:os="android" />
+            <enclosure url="https://github.com/IsD4n73/BigFox-flutterApp/releases/download/rel/app-arm64-v8a-release.apk" sparkle:version="3.18.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
