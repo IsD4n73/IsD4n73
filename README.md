@@ -69,4 +69,4 @@
 [![Powered by D4n73](https://readme-typing-svg.demolab.com/?lines=Powered+by+D4n73&center=true&color=ff0000)](https://git.io/typing-svg)
 
 </div>
-
+<img alt="GitHub Joke" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" />
