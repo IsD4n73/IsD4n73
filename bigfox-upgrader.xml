@@ -3,10 +3,10 @@
     <channel>
         <title>Bigfox - Aggiornamenti</title>
         <item>
-            <title>Versione 3.17.2</title>
-            <description>Added new category</description>
-            <pubDate>Sun, 25 May 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/IsD4n73/BigFox-flutterApp/releases/download/rel/app-arm64-v8a-release.apk" sparkle:version="3.18.6" sparkle:os="android" />
+            <title>Versione 3.20.0</title>
+            <description>Added introduction screen</description>
+            <pubDate>Sun, 25 May 2024 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/IsD4n73/BigFox-flutterApp/releases/download/rel/app-arm64-v8a-release.apk" sparkle:version="3.20.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
