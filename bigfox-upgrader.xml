@@ -3,10 +3,10 @@
     <channel>
         <title>Bigfox - Aggiornamenti</title>
         <item>
-            <title>Versione 4.0.0</title>
-            <description>Migrated to database, improved performance</description>
+            <title>Versione 4.8.6</title>
+            <description>Added Videos, blur image, bugfix</description>
             <pubDate>Sun, 25 May 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/IsD4n73/BigFox-flutterApp/releases/download/rel/app-arm64-v8a-release.apk" sparkle:version="4.0.0" sparkle:os="android" />
+            <enclosure url="https://github.com/IsD4n73/BigFox-flutterApp/releases/download/rel/app-arm64-v8a-release.apk" sparkle:version="4.8.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
