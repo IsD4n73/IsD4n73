@@ -52,7 +52,7 @@
 
 <p align="center">Active Repository</p>
 
-![Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=isd4n73&theme=github_dark&repo=Battle-Shipper)
+![Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=isd4n73&theme=github_dark&repo=Movie-Hub)
 
 ---
 
