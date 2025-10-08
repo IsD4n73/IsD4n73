@@ -3,8 +3,7 @@
   <img  src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/output/github-contribution-grid-snake-dark.svg"
         alt="snake"/>
        
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=IsD4n73&langs_count=5&show_icons=true&locale=it&layout=compact&theme=codeSTACKr" 
-       alt="IsD4n73 linguaggi" height="192px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isd4n73&show_icons=true&theme=dracula&locale=it&layout=compact" alt="IsD4n73 linguaggi" />
 ---
 <br><br>
 
