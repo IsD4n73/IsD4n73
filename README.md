@@ -37,7 +37,7 @@
 
 <p align="center">Stats</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isd4n73&show_icons=true&locale=it&theme=dark" alt="isd4n73" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isd4n73&show_icons=true&theme=dracula&locale=it" alt="isd4n73" /></p>
 
 <p align="center">Serie</p>
 
@@ -49,11 +49,6 @@
 <br><br>
 ---
 
-<p align="center">Active Repository</p>
-
-![Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=isd4n73&theme=github_dark&repo=Movie-Hub)
-
----
 
 <img  src="https://raw.githubusercontent.com/IsD4n73/IsD4n73/bca2c4e7d273465d63113819a815d9ac91124b71/img/pacman.svg"
         alt="pacman" />
